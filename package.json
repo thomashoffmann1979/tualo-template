@@ -1,0 +1,9 @@
+{
+  "name": "template",
+  "main": "./lib/js/template",
+  "version": "0.1.0",
+  "description": "pure and simple templat engine",
+  "repository": "https://github.com/tualo/template",
+  "license": "MIT",
+  "dependencies": {}
+}
