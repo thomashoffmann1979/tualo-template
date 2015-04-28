@@ -5,7 +5,7 @@ var obj = {
   text: "abcd",
   list: [
     {
-      title: "Item 1",
+      title: "Item abc",
       text: "xyz"
     },
     {
