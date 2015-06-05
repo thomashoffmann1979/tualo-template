@@ -1,0 +1,18 @@
+{
+  "title": "Books",
+  "catalog": [
+    {
+      "author": "Max Example",
+      "books": [
+        {
+          "title": "Book No. 1",
+          "release": "2015-01-01"
+        },
+        {
+          "title": "Book No. 2",
+          "release": "2015-03-03"
+        }
+      ]
+    }
+  ]
+}

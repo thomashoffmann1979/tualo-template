@@ -1,0 +1,18 @@
+<html>
+  <body>
+    <h1>{title}</h1>
+    <foreach item = 'catalog'>
+      <div>
+        <h2>{author}<h2>
+        <ul>
+          <foreach item = 'books'>
+            <li>{title} - {release} {test}</li>
+            <if term="compare(release,'2015-01-01')">
+              <li>*{title}</li>
+            </if>
+          </foreach>
+        </ul>
+      </div>
+    </foreach>
+  </body>
+</html>
