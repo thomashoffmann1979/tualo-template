@@ -1,19 +1,19 @@
 {
-  "name": "template",
-  "description": "template",
+  "name": "tualo-template",
+  "description": "tualo-template",
   "version": "0.0.1",
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/tualo/template/LICENSE.md"
+      "url": "http://github.com/tualo/tualo-template/LICENSE.md"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tualo/template.git"
+    "url": "https://github.com/tualo/tualo-template.git"
   },
   "bugs": {
-    "url": "https://github.com/tualo/template/issues"
+    "url": "https://github.com/tualo/tualo-template/issues"
   },
   "main": "./lib/js/template.js"
 }

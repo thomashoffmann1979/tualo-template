@@ -3,7 +3,7 @@ Template is a simple templating engine for objects.
 
 # Usage
 
-  var Template = require('template');
+  var Template = require('tualo-template');
   var obj = {
     title: "MyTitle",
     list: [
