@@ -1,13 +1,8 @@
 {
   "name": "tualo-template",
   "description": "tualo-template",
-  "version": "0.0.1",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/tualo/tualo-template/LICENSE.md"
-    }
-  ],
+  "version": "0.0.2",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/tualo/tualo-template.git"
